@@ -1,0 +1,31 @@
+# JS Dependencies
+node_modules
+
+# Output Directories
+out
+dist
+*.tgz
+
+# Code Coverage
+coverage
+*.lcov
+
+# Output Logs
+logs
+_.log
+report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
+
+# Environment Files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Internal Caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# System Files
+.DS_Store

@@ -1,0 +1,5 @@
+[
+    { "binary": "node", "extension": "js", "runner": ["node"] },
+    { "binary": "bun", "extension": "js", "runner": ["bun", "run"] },
+    { "binary": "deno", "extension": "js", "runner": ["deno", "run"] }
+]
