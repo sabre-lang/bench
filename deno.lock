@@ -13,6 +13,7 @@
       "dependencies": [
         "npm:@types/bun@^1.4.2",
         "npm:@types/node@^26.6.4",
+        "npm:listr2@^11.2.0",
         "npm:typescript@^7.0.2"
       ]
     }
